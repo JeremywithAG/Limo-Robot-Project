@@ -1,1 +1,1 @@
-# Collaborated in a 6-person team to design and deploy an autonomous navigation system on the AgileX LIMO platform within a custom-built indoor arena. Implemented RTAB-Map for real-time SLAM, integrated AMCL and RViz for localization and visualization, and developed ROS-based path planning and obstacle avoidance modules. The robot successfully mapped and navigated complex indoor environments, demonstrating robust autonomy and spatial awareness.
+
